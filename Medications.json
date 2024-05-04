@@ -1,10 +1,10 @@
 {
   "Medications":
   [
-    {"MedName":"Paracetamol","MedDescription":"Commonly used medicine to treat pain and reduce high temperature","MedID":1,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2x a day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/paracetamol.jpeg"},
-    {"MedName":"Pepto Bismol","MedDescription":"Commonly used medicine to treat stomach pain ","MedID":2,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take every 60min until you feel better","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/pepto.jpeg"},
-    {"MedName":"Albuterol","MedDescription":"Commonly used medicine to treat or prevent bronchospasm in patients with asthma","MedID":3,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take in with nebulizer 3 to 4 times per day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/albu.jpeg"},
-    {"MedName":"Alka-Selter","MedDescription":"Commonly used medicine to treat cold and flu","MedID":4,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2 capsules with water every 4 hours.","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/alca.jpeg"}
+    {"MedName":"Paracetamol","MedDescription":"Commonly used medicine to treat pain and reduce high temperature","MedID":1,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2x a day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/paracetamol.jpeg", "MedSite":"https://www.nhs.uk/medicines/paracetamol-for-adults/"},
+    {"MedName":"Pepto Bismol","MedDescription":"Commonly used medicine to treat stomach pain ","MedID":2,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take every 60min until you feel better","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/pepto.jpeg", "MedSite":"https://www.nhs.uk/medicines/pepto-bismol/"},
+    {"MedName":"Albuterol","MedDescription":"Commonly used medicine to treat or prevent bronchospasm in patients with asthma","MedID":3,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take in with nebulizer 3 to 4 times per day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/albu.jpeg", "MedSite":"https://medlineplus.gov/druginfo/meds/a607004.html#:~:text=Albuterol%20is%20used%20to%20prevent,class%20of%20medications%20called%20bronchodilators."},
+    {"MedName":"Alka-Selter","MedDescription":"Commonly used medicine to treat cold and flu","MedID":4,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2 capsules with water every 4 hours.","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/alca.jpeg", "MedSite":"https://www.nhs.uk/medicines/aspirin-for-pain-relief/about-aspirin-for-pain-relief/"}
   ],
   "Status":"OK"
 }
