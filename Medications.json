@@ -4,7 +4,7 @@
     {"MedName":"Paracetamol","MedDescription":"Commonly used medicine to treat pain and reduce high temperature","MedID":1,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2x a day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/paracetamol.jpeg"},
     {"MedName":"Pepto Bismol","MedDescription":"Commonly used medicine to treat stomach pain ","MedID":2,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take every 60min until you feel better","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/pepto.jpeg"},
     {"MedName":"Albuterol","MedDescription":"Commonly used medicine to treat or prevent bronchospasm in patients with asthma","MedID":3,"MedDosage":"2.5mg", "MedCost":"$49.99","Instructions":"Take in with nebulizer 3 to 4 times per day","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/albu.jpeg"},
-    {"MedName":"Alka-Selter","MedDescription":"Commonly used medicine to treat cold and flu","MedID":4,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2 capsules with water every 4 hours.","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/alca.jpeg"},
+    {"MedName":"Alka-Selter","MedDescription":"Commonly used medicine to treat cold and flu","MedID":4,"MedDosage":"500mg", "MedCost":"$13.99","Instructions":"Take 2 capsules with water every 4 hours.","MedImage":"https://raw.githubusercontent.com/PrinceYemofio/Mobile-App-/main/alca.jpeg"}
   ],
   "Status":"OK"
 }
